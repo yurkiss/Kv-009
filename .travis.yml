@@ -7,5 +7,5 @@ components:
  - sys-img-armeabi-v7a-android-19
  - sys-img-x86-android-23
  
- before_install:
+before_install:
  - chmod +x gradlew
